@@ -50,3 +50,19 @@
     - [kill/killall](/docs/usually-commands/kill-killall.md)
 
 - 不常用命令
+
+    - [touch](/docs/not-usually-commands/touch.md)
+    - [cat](/docs/not-usually-commands/cat.md)
+    - [man](/docs/not-usually-commands/man.md)
+    - [tree](/docs/not-usually-commands/tree.md)
+    - [file](/docs/not-usually-commands/file.md)
+    - [chattr/lsattr](/docs/not-usually-commands/chattr-lsatr.md)
+    - [more](/docs/not-usually-commands/more.md)
+    - [less](/docs/not-usually-commands/less.md)
+    - [head](/docs/not-usually-commands/head.md)
+    - [cut](/docs/not-usually-commands/cut.md)
+    - [md5sum](/docs/not-usually-commands/md5sum.md)
+    - [sort](/docs/not-usually-commands/sort.md)
+    - [uniq](/docs/not-usually-commands/uniq.md)
+    - [wc](/docs/not-usually-commands/wc.md)
+    - [dos2unix](/docs/not-usually-commands/dos2unix.md)
