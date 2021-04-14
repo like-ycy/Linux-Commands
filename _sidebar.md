@@ -105,3 +105,7 @@
     - [iptraf](/docs/not-usually-commands/iptraf.md)
     - [ifstat](/docs/not-usually-commands/ifstat.md)
     - [iostat](/docs/not-usually-commands/iostat.md)
+    - [vmstat](/docs/not-usually-commands/vmstat.md)
+    - [mpstat](/docs/not-usually-commands/mpstat.md)
+    - [ldd](/docs/not-usually-commands/ldd.md)
+    - [dnf](/docs/not-usually-commands/dnf.md)
