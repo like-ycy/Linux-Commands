@@ -109,3 +109,4 @@
     - [mpstat](/docs/not-usually-commands/mpstat.md)
     - [ldd](/docs/not-usually-commands/ldd.md)
     - [dnf](/docs/not-usually-commands/dnf.md)
+    - [accton](/docs/not-usually-commands/accton.mds)
