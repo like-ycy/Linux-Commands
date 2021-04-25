@@ -110,3 +110,8 @@
     - [ldd](/docs/not-usually-commands/ldd.md)
     - [dnf](/docs/not-usually-commands/dnf.md)
     - [accton](/docs/not-usually-commands/accton.mds)
+    - [cfdisk](/docs/not-usually-commands/cfdisk.md)
+    - [atop](/docs/not-usually-commands/atop.md)
+    - [fping](/docs/not-usually-commands/fping.md)
+    - [ioping](/docs/not-usually-commands/ioping.md)
+    - [pidstat](/docs/not-usually-commands/pidstat.md)
